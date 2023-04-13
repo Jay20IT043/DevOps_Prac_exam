@@ -16,4 +16,3 @@ COPY . .
 
 # Starting our application
 CMD npm start
-[0:11 pm, 13/04/2023] Parth Mangukiya: aa akhu paste kar
