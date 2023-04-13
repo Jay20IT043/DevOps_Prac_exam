@@ -1,4 +1,3 @@
-[0:11 pm, 13/04/2023] Parth Mangukiya: # Fetching the latest node image on apline linux
 FROM node:alpine AS development
 
 # Declaring env
